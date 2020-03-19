@@ -6,7 +6,7 @@
 
     <groupId>org.correomqtt.plugin.validator</groupId>
     <artifactId>ContainsStringValidatorPlugin</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -16,7 +16,7 @@
 
         <plugin.id>contains-string-validator-plugin</plugin.id>
         <plugin.class />
-        <plugin.version>0.0.1</plugin.version>
+        <plugin.version>0.0.2</plugin.version>
         <plugin.provider>oemel09</plugin.provider>
         <plugin.description>Checks if the message contains a given string</plugin.description>
         <plugin.requires />
